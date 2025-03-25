@@ -1,5 +1,5 @@
 REM --------------------
-REM Audit script made primarly for kiosk mode PC's, signs user out and logs you in and performs basic audit info tasks. Time intervals may need to be tweaked based on machine.
+REM Audit script made primarily for kiosk mode PC's, signs user out and logs you in and performs basic audit info tasks. Time intervals may need to be tweaked based on machine.
 REM --------------------
 
 CTRL ALT DELETE
